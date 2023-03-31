@@ -1,6 +1,6 @@
 Name:		texlive-chemschemex
 Version:	46723
-Release:	1
+Release:	2
 Summary:	Typeset and cross-reference chemical schemes based on TikZ code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chemschemex
